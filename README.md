@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning on backend
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knots-study&layout=compact)
 
