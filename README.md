@@ -6,7 +6,7 @@
 </p>
 
 ### My skills 🌱
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,mysql,sqlite,nginx,fastapi,flask,cpp,dart,fortran,go,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,mysql,sqlite,nginx,fastapi,flask,c,cpp,dart,fortran,go,py&theme=dark)](https://skillicons.dev)
 
 <!--
 **Knots-study/Knots-study** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
